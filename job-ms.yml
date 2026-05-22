@@ -1,0 +1,6 @@
+db: 
+  url: jdbc:postgresql://localhost:5433/education?currentSchema = jobs_schema
+  username: serviceeducation
+  password: admin123
+  maximum-pool-size: 5
+  connection-timeout: 20000
