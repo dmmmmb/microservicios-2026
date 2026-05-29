@@ -1,0 +1,6 @@
+mysql-db: 
+  url: jdbc:mysql://localhost:3308/security
+  username: root
+  password: security_2026
+  maximum-pool-size: 5
+  connection-timeout: 20000
